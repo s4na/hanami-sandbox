@@ -1,6 +1,6 @@
 # Hanami Sandbox
 
-Welcome to your new Hanami project!
+[作業ログ](/docs/log.md)
 
 ## Setup
 
